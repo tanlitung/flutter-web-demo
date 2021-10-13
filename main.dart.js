@@ -50002,7 +50002,7 @@ A.y6.prototype={
 S(a,b){var s,r=null,q=C.Y.i(0,100),p=t.w,o=b.a4(p).f
 p=b.a4(p).f
 s=t.p
-return M.cX(r,new T.dp(C.ij,T.dE(H.a([C.IG,C.EZ,T.n3(H.a([U.a29("../../assets/images/about_img.jpg",r,r),T.cZ(r,r,50),new T.yH(T.dE(H.a([T.Sv(r,r,C.c4,!0,r,C.Fv,C.aX,r,r,1,C.aY),C.tX,C.IE],s),C.ci,C.a4),r)],s),C.bQ,C.b7),T.cZ(r,80,r),T.n3(H.a([A.ls("100","Projects Done",200,250),A.ls("520","Awards Received",200,250),A.ls("783","People Saved",200,250),A.ls("50.8M","Followers",200,250)],s),C.nL,C.b7),T.cZ(r,50,r)],s),C.a8,C.a4),r),q,r,r,p.a.b,r,r,o.a.a)}}
+return M.cX(r,new T.dp(C.ij,T.dE(H.a([C.IG,C.EZ,T.n3(H.a([U.a29("assets/images/about_img.jpg",r,r),T.cZ(r,r,50),new T.yH(T.dE(H.a([T.Sv(r,r,C.c4,!0,r,C.Fv,C.aX,r,r,1,C.aY),C.tX,C.IE],s),C.ci,C.a4),r)],s),C.bQ,C.b7),T.cZ(r,80,r),T.n3(H.a([A.ls("100","Projects Done",200,250),A.ls("520","Awards Received",200,250),A.ls("783","People Saved",200,250),A.ls("50.8M","Followers",200,250)],s),C.nL,C.b7),T.cZ(r,50,r)],s),C.a8,C.a4),r),q,r,r,p.a.b,r,r,o.a.a)}}
 A.zM.prototype={
 S(a,b){var s=null,r=C.Y.i(0,100),q=t.p
 return M.cX(s,new T.dp(C.ik,T.dE(H.a([C.IF,C.cS,U.a29("../../assets/images/about_img.jpg",s,s),C.cS,T.Sv(s,s,C.c4,!0,s,C.Fu,C.aX,s,s,1,C.aY),C.tX,C.IB,C.cS,T.dE(H.a([A.ls("100","Projects Done",200,400),T.cZ(s,20,s),A.ls("520","Awards Received",200,400),T.cZ(s,20,s),A.ls("783","People Saved",200,400),T.cZ(s,20,s),A.ls("50.8M","Followers",200,400)],q),C.a8,C.a4),T.cZ(s,50,s)],q),C.a8,C.a4),s),r,s,s,s,s,s,s)}}
@@ -50038,12 +50038,12 @@ $2(a,b){if(b.b>1400)return new N.y8(null)
 else return new N.zO(null)},
 $S:59}
 N.y8.prototype={
-S(a,b){var s,r=null,q="../../assets/images/suit.png",p="My Iron Man Suit",o=C.Y.i(0,100),n=t.w,m=b.a4(n).f
+S(a,b){var s,r=null,q="assets/images/suit.png",p="My Iron Man Suit",o=C.Y.i(0,100),n=t.w,m=b.a4(n).f
 n=b.a4(n).f
 s=t.p
 return M.cX(r,new T.dp(C.ij,T.dE(H.a([C.IJ,C.F_,T.n3(H.a([N.wg(q,p,350,350),N.wg(q,p,350,350),N.wg(q,p,350,350)],s),C.nM,C.b7)],s),C.a8,C.a4),r),o,r,r,n.a.b,r,r,m.a.a)}}
 N.zO.prototype={
-S(a,b){var s=null,r="../../assets/images/suit.png",q="My Iron Man Suit",p=C.Y.i(0,100),o=t.p
+S(a,b){var s=null,r="assets/images/suit.png",q="My Iron Man Suit",p=C.Y.i(0,100),o=t.p
 return M.cX(s,new T.dp(C.ik,T.dE(H.a([C.II,C.cS,T.dE(H.a([N.wg(r,q,350,350),N.wg(r,q,350,350),N.wg(r,q,350,350)],o),C.a8,C.a4),C.cS],o),C.a8,C.a4),s),p,s,s,s,s,s,s)}}
 L.OV.prototype={}
 D.AY.prototype={
@@ -51961,7 +51961,7 @@ C.ho=new P.lD("AppLifecycleState.resumed")
 C.hp=new P.lD("AppLifecycleState.inactive")
 C.hq=new P.lD("AppLifecycleState.paused")
 C.hr=new P.lD("AppLifecycleState.detached")
-C.ca=new L.lF("../../assets/images/ironman.png",null,null)
+C.ca=new L.lF("assets/images/ironman.png",null,null)
 C.w=new G.lI("AxisDirection.up")
 C.P=new G.lI("AxisDirection.right")
 C.E=new G.lI("AxisDirection.down")
